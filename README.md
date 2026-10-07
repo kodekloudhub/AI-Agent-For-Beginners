@@ -80,3 +80,4 @@ python agent_loop.py
 - Assessment 3 ships both the unsolved `assessment_agent_starter.py` and the
   completed `assessment_agent.py`, plus the grader's `solution_sample.md`
   with per-task rationale.
+# AI-Agent-For-Beginners
